@@ -1,1 +1,1 @@
-echo " tghia is test to git"
+echo " This is test to github desktop"
